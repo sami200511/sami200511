@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Sami+Alnumani;AI+%26+Machine+Learning;Computer+Vision+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Sami+Esmail;AI+%26+Machine+Learning;Computer+Vision+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">AI & Machine Learning | Computer Vision</h3>
